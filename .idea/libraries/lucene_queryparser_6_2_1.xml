@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lucene-queryparser-6.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Новая папка (2)/lucene-6.2.1/queryparser/lucene-queryparser-6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Новая папка (2)/lucene-6.2.1/demo/lucene-demo-6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Новая папка (2)/lucene-6.2.1/core/lucene-core-6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Новая папка (2)/lucene-6.2.1/analysis/common/lucene-analyzers-common-6.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
